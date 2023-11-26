@@ -1,4 +1,4 @@
-module TinkConfigParser
+module github.com/KirillVelichk0/TinkConfigParser
 
 go 1.21
 
