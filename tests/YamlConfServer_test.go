@@ -1,9 +1,10 @@
 package tests
 
 import (
-	tink "TinkConfigParser/cmd/ConfServer"
 	"strings"
 	"testing"
+
+	tink "github.com/KirillVelichk0/TinkConfigParser/pkg/ConfServer"
 
 	"gopkg.in/yaml.v3"
 )
